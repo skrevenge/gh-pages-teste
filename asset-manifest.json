@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/gh-pages-teste/static/css/main.12c6b5ca.chunk.css",
+    "main.js": "/gh-pages-teste/static/js/main.e7a1d3ff.chunk.js",
+    "main.js.map": "/gh-pages-teste/static/js/main.e7a1d3ff.chunk.js.map",
+    "runtime-main.js": "/gh-pages-teste/static/js/runtime-main.f55cce93.js",
+    "runtime-main.js.map": "/gh-pages-teste/static/js/runtime-main.f55cce93.js.map",
+    "static/js/2.01c0cde2.chunk.js": "/gh-pages-teste/static/js/2.01c0cde2.chunk.js",
+    "static/js/2.01c0cde2.chunk.js.map": "/gh-pages-teste/static/js/2.01c0cde2.chunk.js.map",
+    "index.html": "/gh-pages-teste/index.html",
+    "precache-manifest.e9c287249abce3aecbadb496d72a3cd2.js": "/gh-pages-teste/precache-manifest.e9c287249abce3aecbadb496d72a3cd2.js",
+    "service-worker.js": "/gh-pages-teste/service-worker.js",
+    "static/css/main.12c6b5ca.chunk.css.map": "/gh-pages-teste/static/css/main.12c6b5ca.chunk.css.map",
+    "static/media/EX1.png": "/gh-pages-teste/static/media/EX1.73c5ff8f.png",
+    "static/media/byJonhS.png": "/gh-pages-teste/static/media/byJonhS.1ed3a456.png",
+    "static/media/dudu.png": "/gh-pages-teste/static/media/dudu.705fdaf2.png",
+    "static/media/gcs1.png": "/gh-pages-teste/static/media/gcs1.f2d1487e.png",
+    "static/media/gcs2.png": "/gh-pages-teste/static/media/gcs2.843c3b5d.png",
+    "static/media/js1.png": "/gh-pages-teste/static/media/js1.c2566319.png",
+    "static/media/sdgg3d 2.png": "/gh-pages-teste/static/media/sdgg3d 2.492f312b.png",
+    "static/media/sdgg3d 3.png": "/gh-pages-teste/static/media/sdgg3d 3.6c6c3664.png",
+    "static/media/sdgg3d 4.png": "/gh-pages-teste/static/media/sdgg3d 4.16058acc.png",
+    "static/media/sdgg3d.png": "/gh-pages-teste/static/media/sdgg3d.53114685.png",
+    "static/media/sp11-1.png": "/gh-pages-teste/static/media/sp11-1.f78a7306.png",
+    "static/media/sp11-2.png": "/gh-pages-teste/static/media/sp11-2.7399b473.png",
+    "static/media/sp11-3.png": "/gh-pages-teste/static/media/sp11-3.c1a29b0a.png",
+    "static/media/sp11-4.png": "/gh-pages-teste/static/media/sp11-4.7cf7d1d1.png",
+    "static/media/st.png": "/gh-pages-teste/static/media/st.f5aacc54.png",
+    "static/media/ud1.png": "/gh-pages-teste/static/media/ud1.64c92ff4.png",
+    "static/media/ud2.png": "/gh-pages-teste/static/media/ud2.027e7f92.png",
+    "static/media/wp.png": "/gh-pages-teste/static/media/wp.30d7dbb0.png",
+    "static/media/xf1.png": "/gh-pages-teste/static/media/xf1.7d26b077.png",
+    "static/media/xf2.png": "/gh-pages-teste/static/media/xf2.4dcb0ae7.png",
+    "static/media/xf3.png": "/gh-pages-teste/static/media/xf3.82de1bbb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f55cce93.js",
+    "static/js/2.01c0cde2.chunk.js",
+    "static/css/main.12c6b5ca.chunk.css",
+    "static/js/main.e7a1d3ff.chunk.js"
+  ]
+}

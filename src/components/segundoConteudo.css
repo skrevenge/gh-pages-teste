@@ -1,0 +1,55 @@
+.conteudo2 {
+    display: grid;
+    flex-direction: column;
+    overflow-y: scroll;
+    height: 70vh;
+    width: 100vw;
+    background-color: rgba(202, 202, 202, 0.247);
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dudu img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    border: 10px solid white;
+}
+
+.Linha {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin:  auto;
+}
+.Coluna {
+    display: flex;
+    flex-direction: column;
+    padding: 3px;
+    justify-content: center;
+    align-items: center;
+    margin:  auto;
+}
+
+.image {
+    padding: 3px;
+}
+
+hr {
+    border: 3px solid rgb(87, 87, 87);
+    width: 100%;
+    border-radius: 50%;
+}
+
+.titulo {
+    font-weight: bold;
+}
+
+.titulo2 {
+    font-size: 30px;
+    font-weight: bold;
+}
